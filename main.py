@@ -1,4 +1,4 @@
-class Aluno:
+ N     c lass Aluno:
   def __init__(self, nome, notas):
     self.nome = nome
     self.notas = notas
